@@ -34,7 +34,7 @@
 
 ## ERROR FIX IT YOURSELF
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/Taurus-Ex) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-userbot/Taurus-Ex) 
 
 
 # Requirements
